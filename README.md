@@ -11,7 +11,7 @@ I'm a developer who values **data-driven design**, **flat logic structures**, an
 | Systems Programming | Rust |
 | Scripting & UIs | Lua |
 | Proof & Logic | Lean4 |
-| Meta-Programming | Lisp, meta-macros |
+| Meta-Programming | Lisp, macros, Fennel(Lua) |
 | Flexible Runtime Design | Loaders (I/O logic scaffolds), meta-dispatch |
 | Statistics and data-entry | SQL, R, Rust (Can do Python, but I avoid it) |
 | Philosophy | D.R.Y. , K.I.S.S. |
