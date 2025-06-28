@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Andrew
 
-I'm a developer who values **data-driven design**, **flat logic structures**, and **mathematical and statistical computation**. I tend to work close to the metal—whether in **Rust**, **Lua**, or **R**, or **Lean4**, and I enjoy crafting code that’s minimal, maintainable, and intentional.
+I'm a developer who values **data-driven design**, **flat logic structures**, and **mathematical and statistical computation**. I tend to work close to the metal. Whether in **Rust**, **Lua**, or **R**, or **Lean4**, and I enjoy crafting code that is minimal, maintainable, and intentional.
 
 ---
 
@@ -11,9 +11,9 @@ I'm a developer who values **data-driven design**, **flat logic structures**, an
 | Systems Programming | Rust |
 | Scripting & UIs | Lua |
 | Proof & Logic | Lean4 |
-| Meta-Programming | Lisp, macros, Fennel(Lua) |
+| Meta-Programming | Lisp, Fennel, Lean4 |
 | Flexible Runtime Design | Loaders (I/O logic scaffolds), meta-dispatch |
-| Statistics and data-entry | SQL, R, Rust (Can do Python, but I avoid it) |
+| Statistics and data-entry | SQL, R, Perl |
 | Philosophy | D.R.Y. , K.I.S.S. |
 
 ---
