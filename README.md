@@ -1,44 +1,70 @@
-# 👋 Hello, I'm Andrew
+# **Andrew**
 
-I'm a developer who values **data-driven design**, **flat logic structures**, and **mathematical and statistical computation**. I tend to work close to the metal. Whether in **Rust**, **Lua**, or **R**, or **Lean4**, and I enjoy crafting code that is minimal, maintainable, and intentional.
+I am a developer focused on building **minimal**, **maintainable**, and **intentional** software. My work is guided by a preference for **data-driven design**, flat logic structures, and a deep interest in **mathematical and statistical computation**. I enjoy working close to the metal, primarily in systems languages and environments that demand precision and clarity.
 
----
+### **Core Competencies**
 
-## 🧰 Tech Preferences
+<p align="left">
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  </a>
+  <!-- Lua -->
+  <a href="https://www.lua.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  </a>
+  <!-- Fennel -->
+  <a href="https://fennel-lang.org" target="_blank">
+    <img src="https://fennel-lang.org/logo.svg" alt="fennel" width="40" height="40"/>
+  </a>
+  <!-- Lean4 -->
+  <a href="https://leanprover.github.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Lean_logo2.svg" alt="lean4" width="40" height="40"/>
+  </a>
+  <!-- R -->
+  <a href="https://www.r-project.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
+  <!-- Lisp -->
+  <a href="https://www.lisp-lang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" alt="lisp" width="40" height="40"/>
+  </a>
+  <!-- Perl -->
+  <a href="https://www.perl.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
 
-| Focus Area | Tools & Languages |
-| --- | --- |
-| Systems Programming | Rust |
-| Scripting & UIs | Lua |
-| Proof & Logic | Lean4 |
-| Meta-Programming | Lisp, Fennel, Lean4 |
-| Flexible Runtime Design | Loaders (I/O logic scaffolds), meta-dispatch |
-| Statistics and data-entry | SQL, R, Perl |
-| Philosophy | D.R.Y. , K.I.S.S. |
 
----
 
-## 🔍 What Drives Me
 
-- **Data-Driven Code**: Let structured data drive behavior, not layered conditionals.
-- **Minimal Nesting**: Prefer flat tables and declarative logic.
-- **Symbolic Systems**: Explore math, biotech, and computation/statistical models.
-- **Custom Tooling**: I build my own editors, shells, and automation pipelines.
-- **Precision**: Strive for correctness, clarity, low overhead, and future proof code.
+| Category                   | Specialization                                     |
+|----------------------------|---------------------------------------------------|
+| **Systems & Performance**  | Rust                                               |
+| **Scripting & Extensibility** | Lua, Fennel                                    |
+| **Formal Systems & Logic** | Lean4 (Theorem Proving)                           |
+| **Statistical Computing**  | R, SQL, Perl                                      |
+| **Development Philosophy** | Data-Driven Architecture, Declarative Logic (DRY, KISS) |
+| **Architectural Patterns** | Meta-Programming, Custom Loaders, Meta-Dispatch   |
 
----
+### **Guiding Principles**
 
-## 🚧 Projects
+- **Data-Driven Behavior:** Systems are designed so structured data dictates logic, minimizing complex conditional branches in favor of declarative, predictable behavior.
+- **Minimalism & Maintainability:** Code is flat and clear, easy to reason about, debug, and extend.
+- **Custom Tooling:** I build and maintain my own development environment, including editors, shells, and automation pipelines.
+- **Correctness & Clarity:** Code is functionally correct and clear in intent, with low overhead and a focus on long-term stability.
 
-I'm actively working on several projects. They'll be public when they're ready. Until then, feel free to reach out if our interests overlap.
+### **Project Pipeline**
 
----
+I am currently developing several projects that align with my core interests. These are in various stages of completion and will be made public once they meet my standards for quality and documentation. My GitHub profile reflects my most recent public work, but does not encompass a backlog of prior projects being curated for release. (i.e: I have several projects already made that haven't been published yet).
 
-## 📫 Contact
+### **Connect**
 
-- 📂 [GitHub](https://github.com/itsmeforlua)
-- 📧 andrewforlua@gmail.com
+- **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
+- **Email:** andrewforlua@gmail.com
 
----
-
-> *I build tools for thinkers. If you're working on symbolic systems, logic frameworks, biostatistics projects, or data-driven architectures: I'd love to talk.*
+I build tools for thinkers. If you're working on symbolic systems, logic frameworks, biostatistics, or data-driven architectures, I would be interested in discussing your work.
