@@ -1,7 +1,5 @@
 # **Andrew**
 
-I am a developer focused on building **minimal**, **maintainable**, and **intentional** software. My work is guided by a preference for **data-driven design**, flat logic structures, and a deep interest in **mathematical and statistical computation**. I enjoy working close to the metal, primarily in systems languages and environments that demand precision and clarity.
-
 ### **Core Competencies**
 
 <p align="left">
@@ -46,25 +44,13 @@ I am a developer focused on building **minimal**, **maintainable**, and **intent
 |----------------------------|---------------------------------------------------|
 | **Systems & Performance**  | Rust                                               |
 | **Scripting & Extensibility** | Lua, Fennel                                    |
-| **Formal Systems & Logic** | Lean4 (Theorem Proving)                           |
-| **Statistical Computing**  | R, SQL, Perl                                      |
-| **Development Philosophy** | Data-Driven Architecture, Declarative Logic (DRY, KISS) |
-| **Architectural Patterns** | Meta-Programming, Custom Loaders, Meta-Dispatch   |
+| **Formal Systems & Logic** | Lean4                         |
+| **Data**  | R, SQL, Perl                                      |
+| **Development Philosophy** | DRY, KISS |
 
-### **Guiding Principles**
 
-- **Data-Driven Behavior:** Systems are designed so structured data dictates logic, minimizing complex conditional branches in favor of declarative, predictable behavior.
-- **Minimalism & Maintainability:** Code is flat and clear, easy to reason about, debug, and extend.
-- **Custom Tooling:** I build and maintain my own development environment, including editors, shells, and automation pipelines.
-- **Correctness & Clarity:** Code is functionally correct and clear in intent, with low overhead and a focus on long-term stability.
-
-### **Project Pipeline**
-
-I am currently developing several projects that align with my core interests. These are in various stages of completion and will be made public once they meet my standards for quality and documentation. My GitHub profile reflects my most recent public work, but does not encompass a backlog of prior projects being curated for release. (i.e: I have several projects already made that haven't been published yet).
 
 ### **Connect**
 
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
-
-I build tools for thinkers. If you're working on symbolic systems, logic frameworks, biostatistics, or data-driven architectures, I would be interested in discussing your work.
