@@ -1,6 +1,5 @@
 # **Andrew**
-
-### **Core Competencies**
+---
 
 <p align="left">
   <!-- Rust -->
@@ -37,7 +36,7 @@
   </a>
 </p>
 
-
+---
 
 
 | Category                   | Specialization                                     |
@@ -48,7 +47,7 @@
 | **Data**  | R, SQL, Perl                                      |
 | **Development Philosophy** | DRY, KISS |
 
-
+---
 
 ### **Connect**
 
