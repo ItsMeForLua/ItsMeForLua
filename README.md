@@ -1,4 +1,6 @@
-# **Andrew**
+# **Andrew D. France**
+- IT for a decade
+- Coding a few years
 ---
 
 <p align="left">
