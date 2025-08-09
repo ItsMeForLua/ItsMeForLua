@@ -41,11 +41,11 @@
 
 | Category                   | Specialization                                     |
 |----------------------------|---------------------------------------------------|
-| **Systems & Performance**  | Rust                                               |
-| **Scripting & Extensibility** | Lua, Fennel                                    |
-| **Formal Systems & Logic** | Lean4                         |
-| **Data**  | R, SQL, Perl                                      |
-| **Development Philosophy** | DRY, KISS |
+| **Systems**  | Rust, Lisp                                               |
+| **Scripting** | Lua, Fennel, perl, Lisp                                   |
+| **Formal Systems & Logic** | Lean4, Lisp                        |
+| **Data**  | R, Perl, Lisp                                      |
+| **Development Philosophy** | DRY, KISS, testing&benchmarks > boilerplate |
 
 ---
 
