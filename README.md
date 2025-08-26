@@ -48,6 +48,9 @@
 | **Development Philosophy** | DRY, KISS, testing&benchmarks > boilerplate |
 
 ---
+##### Quick Access
+> [AUR: autodock4](https://aur.archlinux.org/packages/autodock4)
+---
 
 ### **Connect**
 
