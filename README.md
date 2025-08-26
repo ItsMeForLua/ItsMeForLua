@@ -49,7 +49,10 @@
 
 ---
 ##### Quick Access
-> [AUR: autodock4](https://aur.archlinux.org/packages/autodock4)
+> [AUR: autodock4](https://aur.archlinux.org/packages/autodock4) - Automated docking of flexible ligands to proteins(for arch linux)
+> [Lisp: cl-freelock](https://github.com/ItsMeForLua/cl-freelock) - lock free queue data structures library for common lisp
+> [Lean4: ln_messagepack](https://github.com/ItsMeForLua/ln_messagepack) - the lean4 messagepack serialization library (beta)
+> [PDB-library](https://github.com/ItsMeForLua/pdb-library) - personal PDB molecule library
 ---
 
 ### **Connect**
