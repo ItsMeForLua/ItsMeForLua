@@ -67,9 +67,9 @@
 ### TODO
 This section displays what I plan to do currently regarding my projects. Most of my projects have a TODO.md, but it's still necessary for me to split time between projects.
 - [ ] cl-freelock needs to have its system definition symbols updated from `#:` to `:`
-- [ ] I need to create google forms for all my projects, and integrate them into automatic github issue reports
-- [ ] I need to add a github actions yml to Rust2d (and a dockerfile at the same time if my time constraints are reasonable)
-- [ ] I need to use github actions to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes.
+- [ ] I will  create google forms for all my projects, and integrate them into automatic github issue reports
+- [ ] I will add a github actions yml to Rust2d (and a dockerfile at the same time if my time constraints are reasonable)
+- [ ] I wll use github actions to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes.
 
 #### Still Working On
 _Meaning I have not abandoned_
