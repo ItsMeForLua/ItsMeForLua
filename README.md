@@ -77,3 +77,5 @@ _Meaning I have not abandoned_
 - [ ] Helping cl-messagepack with benchmarks.
 - [ ] I'm still deciding how I want to approach Inline::Lua, as DistillZilla is making pipeline automation difficult and tedious.
   > For Inline::Lua, additional tests and CI/CD is necessary before making any core changes to the codebase.
+- [ ] I'm still working on `Inline::Lua2`, though it will go by a different name. It will be finished by at-most the end of September.
+  > Do note that this newer version will technically not be a true direct embedding of lua into Perl. It's more of an endirect embedding, but a bit more preformative and is sandboxed out-of-box with optional configurations. The same methods used in Inline::Lua will be possible with "Inline::Lua2".
