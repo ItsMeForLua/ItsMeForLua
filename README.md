@@ -69,6 +69,7 @@
 ### TODO
 This section displays what I plan to do currently regarding my projects. Most of my projects have a TODO.md, but it's still necessary for me to split time between projects.
 - [x] cl-freelock needs to have its system definition symbols updated from `#:` to `:`
+- [ ] cl-freelock needs its API-usage wiki-pages updated. I've already written multiple pages-worth for all 10+ functions, but I'm just refining.
 - [ ] I will  create google forms for all my projects, and integrate them into automatic github issue reports.
 - [ ] I will fix the one non-critical warning from RCBOR's rust build-system for CRAN submission, as per CRAN's sys-admin recommendations.
 - [ ] I will add a github actions yml to Rust2d (and a dockerfile at the same time if my time constraints are reasonable).
