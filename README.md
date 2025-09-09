@@ -70,10 +70,7 @@
 This section displays what I plan to do currently regarding my projects. Most of my projects have a TODO.md, but it's still necessary for me to split time between projects.
 - [x] cl-freelock needs to have its system definition symbols updated from `#:` to `:`
 - [ ] cl-freelock needs its API-usage wiki-pages updated: I've already written multiple pages-worth for all 23 symbols; I'm just refining.
-- [ ] I will  create google forms for all my projects, and integrate them into automatic github issue reports.
-- [ ] I will fix the one non-critical warning from RCBOR's rust build-system for CRAN submission, as per CRAN's sys-admin recommendations.
 - [ ] I will add a github actions yml to Rust2d (and a dockerfile at the same time if my time constraints are reasonable).
-- [ ] I wll use github actions to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes.
 
 #### Still Working On
 _Meaning I have not abandoned_
@@ -83,3 +80,9 @@ _Meaning I have not abandoned_
   > For Inline::Lua, additional tests and CI/CD is necessary before making any core changes to the codebase.
 - [ ] I'm still working on `Inline::Lua2`, though it will go by a different name. It will be finished by at-most the end of September.
   > Do note that this newer version will technically not be a true direct embedding of lua into Perl. It's more of an endirect embedding, but a bit more preformative and is sandboxed out-of-box with optional configurations. The same methods used in Inline::Lua will be possible with "Inline::Lua2".
+
+#### TODO - Later
+- [ ] I will  create google forms for all my projects, and integrate them into automatic github issue reports.
+- [ ] I wll use github actions to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes.
+- [ ] I will fix the one non-critical warning from RCBOR's rust build-system for CRAN submission, as per CRAN's sys-admin recommendations.
+  > This can wait since it's non-critical
