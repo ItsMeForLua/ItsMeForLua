@@ -60,9 +60,7 @@
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
 
-**(8/23/2025) NOTE:** Classes have started for me. I will have multiple STEM classes(which includes labs). This means a lot of lower order AND higher order studying.  I will be consumed in studies, thus, do not expect immediate replies unless it is a critical issue with one of my libraries. I will reply within the week, and I will still be actively maintaining and improving my libraries. You are still welcome to contact me!
-
-**(9/8/2025) NOTE:** Currently swamped with schoolwork. The Bio/Chem classes are manageable, but my Mathematics class is taking about triple the amount of time as those two combined due to the topics covered.
+**(11/25/25) Note:** I'm on the last stretch of this obnoxious semester (3 more weeks). Next semester is mostly just mathematics for me, so I should have much more time to dedicate to my projects. Thank you for your patience.
 
 ---
 
