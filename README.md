@@ -60,7 +60,7 @@
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
 
-**(11/25/25) Note:** I'm on the last stretch of this obnoxious semester (3 more weeks). Next semester is mostly just mathematics for me, so I should have much more time to dedicate to my projects. Thank you for your patience.
+**(03/03/26) Note:** I have time to work on my projects now, but some projects I will be holding off on due to priorities. I've also been getting a lot of random dreams of lua code, so I think I'm gonna write more lua. Perhaps interoperating with lisp somehow. Maybe even scheme.
 
 ---
 
