@@ -41,7 +41,9 @@
 | **Scripting** | Lua, Fennel, perl, Lisp                                   |
 | **Formal Systems & Logic** | Lean4, Lisp                        |
 | **Data**  | R, Perl, Lisp                                      |
-| **Development Philosophy** | DRY, KISS, testing&benchmarks > boilerplate |
+| **Development Philosophy** | DRY, testing&benchmarks > boilerplate |
+
+*My main languages would be lisp and lua, and I can really do anything and everything with just those two, but R I've been learning more of, it's just tedious with every library being its own DSL.*
 
 ---
 ##### Quick Access
