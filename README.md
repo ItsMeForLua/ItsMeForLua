@@ -18,10 +18,6 @@
   <a href="https://www.lisp-lang.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" alt="lisp" width="40" height="40"/>
   </a>
-  <!-- Perl -->
-  <a href="https://www.perl.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/>
-  </a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -38,9 +34,8 @@
 | Category                   | Specialization                                     |
 |----------------------------|---------------------------------------------------|
 | **Systems**  | Rust, Lisp                                               |
-| **Scripting** | Lua, Fennel, perl, Lisp                                   |
-| **Formal Systems & Logic** | Lean4, Lisp                        |
-| **Data**  | R, Perl, Lisp                                      |
+| **Scripting** | Lua, Fennel, Lisp                                   |
+| **Data**  | R, Lisp                                      |
 | **Development Philosophy** | DRY, testing&benchmarks > boilerplate |
 
 *My main languages would be lisp and lua, and I can really do anything and everything with just those two, but R I've been learning more of, it's just tedious with every library being its own DSL.*
@@ -62,7 +57,7 @@
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
 
-**(03/03/26) Note:** I have time to work on my projects now, but some projects I will be holding off on due to priorities. I've also been getting a lot of random dreams of lua code, so I think I'm gonna write more lua. Perhaps interoperating with lisp somehow. Maybe even scheme.
+**(03/27/26) Note:** I'm depricating my use of perl, despite previously listing it as one of my known languages. Perl just generally goes against my code philosophies, and its testing enviroments are very impractical. I love perl, because I think it's cool, but, since the code that made if fast for parsing and regex is open source, and made in C, many other programming languages have adopted that code, and can be just as fast(if not faster).
 
 ---
 
@@ -76,10 +71,6 @@ This section displays what I plan to do currently regarding my projects. Most of
 _Meaning I have not abandoned_
 - [ ] Helping update the clasp install scripts for Roswell.
 - [ ] Helping cl-messagepack with benchmarks.
-- [ ] I'm still deciding how I want to approach Inline::Lua, as DistillZilla is making pipeline automation difficult and tedious.
-  > For Inline::Lua, additional tests and CI/CD is necessary before making any core changes to the codebase.
-- [ ] I'm still working on `Inline::Lua2`, though it will go by a different name. It will be finished by at-most the end of September.
-  > Do note that this newer version will technically not be a true direct embedding of lua into Perl. It's more of an endirect embedding, but a bit more preformative and is sandboxed out-of-box with optional configurations. The same methods used in Inline::Lua will be possible with "Inline::Lua2".
 
 #### TODO - Later
 - [ ] I will  create google forms for all my projects, and integrate them into automatic github issue reports.
