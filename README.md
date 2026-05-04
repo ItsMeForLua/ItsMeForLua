@@ -1,18 +1,6 @@
 # **Andrew D. France**
 
 ---
-
-
-| Category                   | Specialization                                     |
-|----------------------------|---------------------------------------------------|
-| **Systems**  | Rust, Lisp                                               |
-| **Scripting** | Lua, Fennel, Lisp                                   |
-| **Data**  | R, Lisp                                      |
-| **Development Philosophy** | DRY, testing&benchmarks > boilerplate |
-
-*My main languages would be lisp and lua, and I can really do anything and everything with just those two, but R I've been learning more of, it's just tedious with every library being its own DSL.*
-
----
 ##### Quick Access
 > [AUR: autodock4](https://aur.archlinux.org/packages/autodock4) - Automated docking of flexible ligands to proteins(for arch linux)
   > - [Source Control](https://github.com/ItsMeForLua/aur-autodock4.git)
@@ -35,9 +23,10 @@
 
 ### TODO
 This section displays what I plan to do currently regarding my projects. Most of my projects have a TODO.md, but it's still necessary for me to split time between projects.
-- [x] cl-freelock needs to have its system definition symbols updated from `#:` to `:`
-- [ ] cl-freelock needs its API-usage wiki-pages updated: I've already written multiple pages-worth for all 23 symbols; I'm just refining.
-- [ ] I will add a github actions yml to Rust2d (and a dockerfile at the same time if my time constraints are reasonable).
+- [ ] cl-freelock needs its API-usage ~wiki-~ pages updated: I've already written multiple pages-worth for all 23 symbols; I'm just refining. **Edit 5/4/26:** I will actually be making the API-usage wiki pages as HTML in github pages.
+- [ ] I will add a github actions yml to Rust2d.
+- [ ] I need to hand over the perl libraries I currently manage on CPAN to other users since I no longer plan on using Perl. Inlinelua can go to the users who previously really wanted to own it.
+- [ ] I will be adding vale either as github CI/CD or as part of my google cloud Jenkins pipeline; specifically for README's and documentation proof reading.
 
 #### Still Working On
 _Meaning I have not abandoned_
@@ -45,7 +34,6 @@ _Meaning I have not abandoned_
 - [ ] Helping cl-messagepack with benchmarks.
 
 #### TODO - Later
-- [ ] I will  create google forms for all my projects, and integrate them into automatic github issue reports.
-- [ ] I wll use github actions to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes.
+- [ ] I will use ~github actions~ to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes. **Edit 5/4/26:** I will probably be using Jenkins in google cloud for my repos, so this is a target that can be added to that pipeline.
 - [ ] I will fix the one non-critical warning from RCBOR's rust build-system for CRAN submission, as per CRAN's sys-admin recommendations.
   > This can wait since it's non-critical
