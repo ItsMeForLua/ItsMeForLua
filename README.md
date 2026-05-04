@@ -17,6 +17,7 @@
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
 
+**(5/04/26) Note:** I'm not longer using Jenkins, because of the resource requirements, extra complexity, etc. It was a hard decision to make, but, github CI/CD is more lightweight, more straightforward, etc.
 **(03/27/26) Note:** I'm depricating my use of perl, despite previously listing it as one of my known languages. Perl just generally goes against my code philosophies, and its testing enviroments are very impractical. I love perl, because I think it's cool, but, since the code that made if fast for parsing and regex is open source, and made in C, many other programming languages have adopted that code, and can be just as fast(if not faster).
 
 ---
@@ -26,7 +27,7 @@ This section displays what I plan to do currently regarding my projects. Most of
 - [ ] cl-freelock needs its API-usage ~wiki-~ pages updated: I've already written multiple pages-worth for all 23 symbols; I'm just refining. **Edit 5/4/26:** I will actually be making the API-usage wiki pages as HTML in github pages.
 - [ ] I will add a github actions yml to Rust2d.
 - [ ] I need to hand over the perl libraries I currently manage on CPAN to other users since I no longer plan on using Perl. Inlinelua can go to the users who previously really wanted to own it.
-- [ ] I will be adding vale either as github CI/CD or as part of my google cloud Jenkins pipeline; specifically for README's and documentation proof reading.
+- [ ] I will be adding vale as github CI/CD. Specifically for README's and documentation proof reading.
 
 #### Still Working On
 _Meaning I have not abandoned_
@@ -34,6 +35,6 @@ _Meaning I have not abandoned_
 - [ ] Helping cl-messagepack with benchmarks.
 
 #### TODO - Later
-- [ ] I will use ~github actions~ to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes. **Edit 5/4/26:** I will probably be using Jenkins in google cloud for my repos, so this is a target that can be added to that pipeline.
+- [ ] I will use github actions to automatically create issue reports for `cl-win32-types` and `cl-win32-errors` when the upstream API has changes.
 - [ ] I will fix the one non-critical warning from RCBOR's rust build-system for CRAN submission, as per CRAN's sys-admin recommendations.
   > This can wait since it's non-critical
