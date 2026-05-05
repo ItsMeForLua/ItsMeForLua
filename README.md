@@ -17,7 +17,7 @@
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
 
-**(5/04/26) Note:** I'm not longer using Jenkins, because of the resource requirements, extra complexity, etc. It was a hard decision to make, but, github CI/CD is more lightweight, more straightforward, etc.
+**(5/04/26) Note:** I'm no longer using Jenkins, because of the resource requirements, extra complexity, etc. It was a hard decision to make, but, github CI/CD is more lightweight, more straightforward, etc.
 
 **(03/27/26) Note:** I'm depricating my use of perl, despite previously listing it as one of my known languages. Perl just generally goes against my code philosophies, and its testing enviroments are very impractical. I love perl, because I think it's cool, but, since the code that made if fast for parsing and regex is open source, and made in C, many other programming languages have adopted that code, and can be just as fast(if not faster).
 
