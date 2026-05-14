@@ -21,6 +21,7 @@
 This semester is over for me, so over the summer, I will be working on my projects.
 Also, I will be updating a couple of the licenses in a couple of my repos, because I learned that if a repo was mostly made with AI, then it can't really be licensed. I also want to favor academic honesty, so for the couple of repos that are mostly AI made, I will add a disclaimer. This does not effect the licenses of my main repos like cl-freelock, fplot, etc, as those are indeed mostly written by me, which you can probably tell by the code being weird-- a symptom of the fact that I have not been programming for decades; rather, less than a decade. This only affects smaller repos like magickPDF and the lisppad-scheme graphing module.
 I also think transparency is important when it comes to AI use, as AI-generated code should be reviewed with more scrutiny in certain contexts to be absolutely sure the code is up to standard.
+WIP repos such as ["Graphing Continuous Geometry in Racket"](https://github.com/ItsMeForLua/Graphing-Continuous-Geometry-In-Racket-Guide) are pretty much 0% AI in terms of what is written, as I do not value AI generated prose at all, and I actually think it tends to be horrid.
 
 
 **(5/04/26) Note:** I'm no longer using Jenkins, because of the resource requirements, extra complexity, etc. It was a hard decision to make, but, github CI/CD is more lightweight, more straightforward, etc.
