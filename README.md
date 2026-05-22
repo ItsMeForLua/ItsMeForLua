@@ -7,7 +7,7 @@
 > 
 > [Lisp: cl-freelock](https://github.com/ItsMeForLua/cl-freelock) - lock free queue data structures library for common lisp
 >
-> [Lisp: cl-win32](https://github.com/ItsMeForLua/cl-win32) - Index repo for cl-win32-types and cl-win32-errors (WIP)
+> [Lisp: cl-win32](https://github.com/ItsMeForLua/cl-win32) - Master/package repo for cl-win32-types and cl-win32-errors (WIP)
 > 
 > [Lean4: ln_messagepack](https://github.com/ItsMeForLua/ln_messagepack) - the lean4 messagepack serialization library (beta)
 > 
