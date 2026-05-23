@@ -4,6 +4,9 @@
 ##### Quick Access
 > [AUR: autodock4](https://aur.archlinux.org/packages/autodock4) - Automated docking of flexible ligands to proteins(for arch linux)
   > - [Source Control](https://github.com/ItsMeForLua/aur-autodock4.git)
+>
+>  [AUR: autogrid4](https://aur.archlinux.org/packages/autogrid4) - Autogrid4 is a support software for docking programs such as AutoDock4 and Autodock-GPU
+  > - [Source Control](https://github.com/ItsMeForLua/aur-autogrid4) 
 > 
 > [Lisp: cl-freelock](https://github.com/ItsMeForLua/cl-freelock) - lock free queue data structures library for common lisp
 >
