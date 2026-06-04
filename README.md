@@ -1,4 +1,6 @@
-# **Andrew D. France**
+> # **Andrew D. France**
+> My SourceHut profile [here](https://sr.ht/~itsmeforlua/)
+>---
 
 ---
 ##### Quick Access
@@ -21,6 +23,8 @@
 
 - **GitHub:** [ItsMeForLua](https://github.com/itsmeforlua)
 - **Email:** andrewforlua@gmail.com
+  - _n.b.,_ For my work email, you will need to email andrewforlua@gmail with your intention.
+
 **(5/31/26 Note:** Recently I've been looking more into nix-shell, and it seems very promising. I will be incorporating it into github actions for my repos. Though, it's only compatable with linux, so windows runners are out of the questions in this case.
 
 **(5/04/26) Note:** I'm no longer using Jenkins, because of the resource requirements, extra complexity, etc. It was a hard decision to make, but, github CI/CD is more lightweight, more straightforward, etc.
