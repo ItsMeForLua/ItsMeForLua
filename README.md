@@ -4,19 +4,24 @@
 
 ---
 ##### Quick Access
-> [AUR: autodock4](https://aur.archlinux.org/packages/autodock4) - Automated docking of flexible ligands to proteins(for arch linux)
-  > - [Source Control](https://github.com/ItsMeForLua/aur-autodock4.git)
+###### Libraries, Manifests, Build Scripts
+> * [AUR: autodock4](https://aur.archlinux.org/packages/autodock4) - Automated docking of flexible ligands to proteins(for arch linux) \
+      - [Source Control](https://github.com/ItsMeForLua/aur-autodock4.git)
 >
->  [AUR: autogrid4](https://aur.archlinux.org/packages/autogrid4) - Autogrid4 is a support software for docking programs such as AutoDock4 and Autodock-GPU
-  > - [Source Control](https://github.com/ItsMeForLua/aur-autogrid4) 
+> * [AUR: autogrid4](https://aur.archlinux.org/packages/autogrid4) - Autogrid4 is a support software for docking programs such as AutoDock4 and Autodock-GPU
+  > * [Source Control](https://github.com/ItsMeForLua/aur-autogrid4) 
 > 
-> [Lisp: cl-freelock](https://github.com/ItsMeForLua/cl-freelock) - lock free queue data structures library for common lisp
+> * [Lisp: cl-freelock](https://github.com/ItsMeForLua/cl-freelock) - lock free queue data structures library for common lisp
 >
-> [Lisp: cl-win32](https://github.com/ItsMeForLua/cl-win32) - Master/package repo for cl-win32-types and cl-win32-errors (WIP)
+> * [Lisp: cl-win32](https://github.com/ItsMeForLua/cl-win32) - Master/package repo for cl-win32-types and cl-win32-errors (WIP)
 > 
-> [Lean4: ln_messagepack](https://github.com/ItsMeForLua/ln_messagepack) - the lean4 messagepack serialization library (beta)
+> * [Lean4: ln_messagepack](https://github.com/ItsMeForLua/ln_messagepack) - the lean4 messagepack serialization library (beta)
 > 
-> [PDB-library](https://github.com/ItsMeForLua/pdb-library) - personal PDB molecule library
+###### Writeups
+  > _n.b.,_ These are all WIP and at varied stages of completion.
+> * [Introduction To cGMP and Regulations in Bioinformatics](https://git.sr.ht/~itsmeforlua/Introduction-To-cGMP-and-Regulations-in-Bioinformatics)
+> * [Introduction To Flow Cytometry](https://git.sr.ht/~itsmeforlua/Introduction-To-Flow-Cytometry)
+> * [Graphing Continuous Geometry In Racket Guide](https://github.com/ItsMeForLua/Graphing-Continuous-Geometry-In-Racket-Guide)
 ---
 
 ### **Connect**
